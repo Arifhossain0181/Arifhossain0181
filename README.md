@@ -1,3 +1,8 @@
+# Hi 👋, I'm Arif hossen Tanvir
+### 🚀 📊 Full stack developer | 📈 Problem Solver
+
+# 💫 About Me:
+I'm currently working on and Projects<br>I'm  currently learning Typescript, Next.js,Go,<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arif01-hossen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22303050@iubat.edu) 
