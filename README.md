@@ -1,5 +1,5 @@
-# Hi 👋, I'm Md Imran Nazir Udoy
-### 🚀 📊 Data Science Enthusiast | Backend  | Researcher  | 📈 Problem Solver
+# Hi 👋, I'm Md Arif hossen tanvir
+### 🚀 📊  full stack developer  | 📈 Problem Solver
 
 # 💫 About Me:
 I'm currently working on Research and Projects<br>I'm  currently learning ML , Django<br>
